@@ -1,0 +1,2 @@
+# IOT-Project-Smart-Street-Light-System-
+This project involves a smart street light system that turns on  during the night time as any object or people pass by it. LDR is used to detect the presence of light based on resistance, in the presence of light all the LEDs will be off and during night time based on IR sensor’s response the LED’s will on. Here, we are employing 5 IR sensors, each one of which controls the corresponding 5 LEDs. When a certain IR sensor detects the presence of a any object or people, and it is dark it notifies the Arduino board and activates the LEDs.
